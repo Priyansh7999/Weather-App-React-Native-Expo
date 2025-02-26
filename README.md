@@ -38,37 +38,24 @@ Follow these steps to set up and run the app locally:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+   git clone https://github.com/Priyansh7999/Weather-App-React-Native-Expo.git
+   cd eather-App-React-Native-Expo
    ```
 2. **Install dependencies:**
    ```sh
    npm install
    ```
-3. **Set up environment variables:**
-   - Create a `.env` file in the root directory
-   - Add your Weather API key:
-     ```env
-     REACT_NATIVE_WEATHER_API_KEY=your_api_key_here
-     ```
-4. **Start the development server:**
+
+3. **Start the development server:**
    ```sh
    npm start
    ```
-5. **Run the app:**
+4. **Run the app:**
    ```sh
    npm run android  # for Android
    npm run ios      # for iOS (requires macOS)
    ```
 
-## 🔧 Configuration
-
-Ensure that your `.env` file is correctly configured. If using Expo, you may need `expo-constants` to access environment variables:
-
-```js
-import Constants from 'expo-constants';
-const API_KEY = Constants.expoConfig.extra.weatherApiKey;
-```
 
 ## 🏃 Usage
 
@@ -103,5 +90,5 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 👤 **Your Name**
-GitHub: [@yourusername](https://github.com/yourusername)
-LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile/)
+GitHub: [@Priyansh7999](https://github.com/Priyansh7999)
+LinkedIn: [Priyansh Saxena]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/priyansh-saxena-399799254/))
